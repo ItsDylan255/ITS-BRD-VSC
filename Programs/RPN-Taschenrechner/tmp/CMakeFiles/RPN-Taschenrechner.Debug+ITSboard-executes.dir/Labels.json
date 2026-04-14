@@ -1,0 +1,40 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/GS_Labor/ITS-BRD-VSC/Programs/RPN-Taschenrechner/tmp/CMakeFiles/RPN-Taschenrechner.Debug+ITSboard-executes"
+		},
+		{
+			"file" : "C:/GS_Labor/ITS-BRD-VSC/Programs/RPN-Taschenrechner/tmp/CMakeFiles/RPN-Taschenrechner.Debug+ITSboard-executes.rule"
+		},
+		{
+			"file" : "C:/GS_Labor/ITS-BRD-VSC/Programs/RPN-Taschenrechner/tmp/RPN-Taschenrechner.Debug+ITSboard/src/RPN-Taschenrechner.Debug+ITSboard-stamp/RPN-Taschenrechner.Debug+ITSboard-executes.rule"
+		},
+		{
+			"file" : "C:/GS_Labor/ITS-BRD-VSC/Programs/RPN-Taschenrechner/tmp/RPN-Taschenrechner.Debug+ITSboard/src/RPN-Taschenrechner.Debug+ITSboard-stamp/RPN-Taschenrechner.Debug+ITSboard-build.rule"
+		},
+		{
+			"file" : "C:/GS_Labor/ITS-BRD-VSC/Programs/RPN-Taschenrechner/tmp/RPN-Taschenrechner.Debug+ITSboard/src/RPN-Taschenrechner.Debug+ITSboard-stamp/RPN-Taschenrechner.Debug+ITSboard-configure.rule"
+		},
+		{
+			"file" : "C:/GS_Labor/ITS-BRD-VSC/Programs/RPN-Taschenrechner/tmp/RPN-Taschenrechner.Debug+ITSboard/src/RPN-Taschenrechner.Debug+ITSboard-stamp/RPN-Taschenrechner.Debug+ITSboard-patch.rule"
+		},
+		{
+			"file" : "C:/GS_Labor/ITS-BRD-VSC/Programs/RPN-Taschenrechner/tmp/RPN-Taschenrechner.Debug+ITSboard/src/RPN-Taschenrechner.Debug+ITSboard-stamp/RPN-Taschenrechner.Debug+ITSboard-update.rule"
+		},
+		{
+			"file" : "C:/GS_Labor/ITS-BRD-VSC/Programs/RPN-Taschenrechner/tmp/RPN-Taschenrechner.Debug+ITSboard/src/RPN-Taschenrechner.Debug+ITSboard-stamp/RPN-Taschenrechner.Debug+ITSboard-download.rule"
+		},
+		{
+			"file" : "C:/GS_Labor/ITS-BRD-VSC/Programs/RPN-Taschenrechner/tmp/RPN-Taschenrechner.Debug+ITSboard/src/RPN-Taschenrechner.Debug+ITSboard-stamp/RPN-Taschenrechner.Debug+ITSboard-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"RPN-Taschenrechner.Debug+ITSboard"
+		],
+		"name" : "RPN-Taschenrechner.Debug+ITSboard-executes"
+	}
+}

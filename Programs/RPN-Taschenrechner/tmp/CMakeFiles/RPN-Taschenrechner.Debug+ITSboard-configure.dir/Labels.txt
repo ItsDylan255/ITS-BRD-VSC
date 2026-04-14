@@ -1,0 +1,10 @@
+# Target labels
+ RPN-Taschenrechner.Debug+ITSboard
+# Source files and their labels
+C:/GS_Labor/ITS-BRD-VSC/Programs/RPN-Taschenrechner/tmp/CMakeFiles/RPN-Taschenrechner.Debug+ITSboard-configure
+C:/GS_Labor/ITS-BRD-VSC/Programs/RPN-Taschenrechner/tmp/CMakeFiles/RPN-Taschenrechner.Debug+ITSboard-configure.rule
+C:/GS_Labor/ITS-BRD-VSC/Programs/RPN-Taschenrechner/tmp/RPN-Taschenrechner.Debug+ITSboard/src/RPN-Taschenrechner.Debug+ITSboard-stamp/RPN-Taschenrechner.Debug+ITSboard-configure.rule
+C:/GS_Labor/ITS-BRD-VSC/Programs/RPN-Taschenrechner/tmp/RPN-Taschenrechner.Debug+ITSboard/src/RPN-Taschenrechner.Debug+ITSboard-stamp/RPN-Taschenrechner.Debug+ITSboard-patch.rule
+C:/GS_Labor/ITS-BRD-VSC/Programs/RPN-Taschenrechner/tmp/RPN-Taschenrechner.Debug+ITSboard/src/RPN-Taschenrechner.Debug+ITSboard-stamp/RPN-Taschenrechner.Debug+ITSboard-update.rule
+C:/GS_Labor/ITS-BRD-VSC/Programs/RPN-Taschenrechner/tmp/RPN-Taschenrechner.Debug+ITSboard/src/RPN-Taschenrechner.Debug+ITSboard-stamp/RPN-Taschenrechner.Debug+ITSboard-download.rule
+C:/GS_Labor/ITS-BRD-VSC/Programs/RPN-Taschenrechner/tmp/RPN-Taschenrechner.Debug+ITSboard/src/RPN-Taschenrechner.Debug+ITSboard-stamp/RPN-Taschenrechner.Debug+ITSboard-mkdir.rule
