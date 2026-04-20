@@ -12,6 +12,7 @@
 #include "LCD_GUI.h"
 #include "LCD_Touch.h"
 #include "lcd.h"
+#include "stack.h"
 #include "fontsFLASH.h"
 #include "additionalFonts.h"
 #include "error.h"
